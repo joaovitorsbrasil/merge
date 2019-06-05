@@ -1,0 +1,4 @@
+function cumprimento(){
+alert("Olá");
+
+}
